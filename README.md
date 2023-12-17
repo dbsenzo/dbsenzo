@@ -1,8 +1,8 @@
 ## Hi there ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Enzo Desbois, a recent computer science graduate from [Efrei - Paris](https://efrei.fr/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-enzodbs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Enzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-desbois-963917238/)](https://www.linkedin.com/in/enzo-desbois-963917238/)
 
 ## ⚡ Technologies
 
