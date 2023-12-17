@@ -25,9 +25,6 @@ I'm Enzo Desbois, currently pursuing a computer science degree at [Efrei - Paris
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dbsenzo&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dbsenzo.dbsenzo)
 
 <!--
 **dbsenzo/dbsenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
