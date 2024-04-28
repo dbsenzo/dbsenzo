@@ -1,4 +1,6 @@
-## Hi there ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9zcXNuMnplaWpmZGk2OHJqZGF4bXBiOXBkbGc5Y2lzZ2xyOHR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xJRhr0sDFwmppinuRa/giphy.gif" width="100%"/>
+
+## Hi there ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>
 
 I'm Enzo Desbois, currently pursuing a computer science degree at [Efrei - Paris](https://efrei.fr/). Passionate about technology and a strong supporter of open-source initiatives, I'm eager to collaborate on projects and explore groundbreaking ideas. Don't hesitate to reach out to me here:
 
