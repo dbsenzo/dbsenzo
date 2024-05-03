@@ -1,4 +1,5 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9zcXNuMnplaWpmZGk2OHJqZGF4bXBiOXBkbGc5Y2lzZ2xyOHR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xJRhr0sDFwmppinuRa/giphy.gif" width="100%"/>
+![Header](https://github.com/dbsenzo/dbsenzo/assets/97107298/bb997fda-b6f9-4d4b-9e1b-7fd73b737e85)
+
 
 ## Hi there ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>
 
